@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: montserrat;
+    background: linear-gradient( 120deg, #0c519e, #2abbf3);
+    height: 100vh;
+    overflow: hidden;
+}
+
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+        background: rgba( 255, 255, 255, 0.35 );
+        box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+        backdrop-filter: blur( 13.5px );
+        -webkit-backdrop-filter: blur( 13.5px );
+        border-radius: 10px;
+        border: 1px solid rgba( 255, 255, 255, 0.18 );
+      
+}
+.imagem1{
+    max-width: 20%;
+    max-height: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}   
+.entrar{
+    font-family: 'Sarala', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+
+
+}
+
+.Compo_de_texto{    
+    
+    font-family: 'Fira Sans', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 13em
+
+}
+.botão{
+    background: rgba( 255, 255, 255, 0.35 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 13.5px );
+    -webkit-backdrop-filter: blur( 13.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+  
+
+}
+
+.barra{
+
+    background: rgba( 255, 255, 255, 0.35 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 13.5px );
+    -webkit-backdrop-filter: blur( 13.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    
+}
+
+.cadastro{
+    background: rgba( 255, 255, 255, 0.35 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 13.5px );
+    -webkit-backdrop-filter: blur( 13.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    
+}
+.cadastrar{
+    font-family: 'Fira Sans', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+.rodape{
+    font-family: 'Square Peg', cursive;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
